@@ -1,4 +1,4 @@
-name: $project-lab.env # (0) กำหนดชื่อโปรเจคให้สอดคล้องกับ .env [4]
+name: $it464-Test02-Docker-Container-2-jirayu.nimv.env # (0) กำหนดชื่อโปรเจคให้สอดคล้องกับ .env [4]
 
 services:
   # 1. ฐานข้อมูล (Database)
